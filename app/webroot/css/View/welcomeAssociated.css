@@ -1,0 +1,22 @@
+.textBox{
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+
+}
+
+body{
+
+	background: #2597ac;
+	color: #FFFFFF;
+}
+
+.btnLogin{
+	background: #FFFFFF;
+	color: ##2597ac;
+}
+
+.myImg{
+	width: 10%;
+}
